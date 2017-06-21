@@ -1,11 +1,15 @@
 body {
 	margin: O;
 	font-family: helvetica;
+  }
+
+h1 {
+  font-weight: 100;
 }
 
 #logo {
-	height: 100px; 
-	width: auto; 
+	height: 100px;
+	width: auto;
 }
 
 #container {
